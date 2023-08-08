@@ -840,6 +840,9 @@ img {
   pointer-events: none;
 }
 
+.comment-field {
+  margin-bottom: 16px;
+}
 .check-field {
   margin-bottom: 24px;
 }
@@ -849,7 +852,6 @@ img {
   font-size: 12px;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.04em;
-  display: flex;
   align-items: center;
 }
 
